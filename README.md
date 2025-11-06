@@ -42,6 +42,3 @@ Educational software for teaching shapes to children.
 Assistive tool for visually impaired learners.
 Demonstration of multimedia integration in C++.
 
-[Roll No, Name]
-
-[Ro
